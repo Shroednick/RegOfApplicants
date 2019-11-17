@@ -1,0 +1,52 @@
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\Oksana.exe.config
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\Oksana.exe
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\Oksana.pdb
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\MetroFramework.Design.dll
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\MetroFramework.dll
+C:\Users\shroe\source\repos\Oksana\Oksana\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Form1.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Form2.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Form3.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Form4.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Form5.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.Properties.Resources.resources
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.exe
+C:\Users\shroe\source\repos\Oksana\Oksana\obj\Debug\Oksana.pdb
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\Oksana.exe.config
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\Oksana.exe
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\Oksana.pdb
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\MetroFramework.dll
+C:\Users\Nikita\Desktop\Oksana\Oksana\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Form1.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Form2.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Form3.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Form4.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Form5.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.exe
+C:\Users\Nikita\Desktop\Oksana\Oksana\obj\Debug\Oksana.pdb
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\Oksana.exe.config
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\Oksana.exe
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\Oksana.pdb
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\MetroFramework.dll
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Kursovaya.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Form1.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Form2.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Form3.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Form4.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Form5.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.exe
+C:\Users\Nikita\Desktop\Registration of immigrants\Oksana\obj\Debug\Oksana.pdb
